@@ -1,2 +1,6 @@
 Archivito pa la ramita ninio pa todos ustede
+<<<<<<< HEAD
 otro cambio vaya a ser que tenga ganas de dar poculo el ejercicio
+=======
+Cambio pal ninio pa que no este aburrio 
+>>>>>>> mirama
